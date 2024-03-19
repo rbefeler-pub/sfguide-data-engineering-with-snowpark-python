@@ -42,7 +42,7 @@ GRANT OWNERSHIP ON WAREHOUSE HOL_WH TO ROLE HOL_ROLE;
 -- ----------------------------------------------------------------------------
 USE ROLE HOL_ROLE;
 USE WAREHOUSE HOL_WH;
-USE DATABASE HOL_DB;
+USE DATABASE HOL_DB88;
 
 -- Schemas
 CREATE OR REPLACE SCHEMA EXTERNAL;
